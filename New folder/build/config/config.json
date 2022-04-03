@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB583F0d4Da0C9199F52bdb15e457787742B929A7",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "Rebels",
+  "SYMBOL": "REBS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Rebels",
+  "SHOW_BACKGROUND": true
+}
